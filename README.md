@@ -6,8 +6,10 @@ This is updated script which can access the points.
 To install any requirements run the
 
 ```sh
-$ chmod 777 install.sh
-$ sudo install.sh
+chmod 777 install.sh
+sudo install.sh
+
+python AP.py
 ```
 
 If you have any suggestions do submit the pull requests :)
